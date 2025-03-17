@@ -19,3 +19,5 @@ This project is a translation app built using Redux Toolkit and Thunk. Users can
 - **Axios** - For making API requests
 
 ## Demo
+![Zight Recording 2025-03-17 at 09 35 10 PM](https://github.com/user-attachments/assets/7f732c49-bad7-40a0-b3be-6299c1745dcd)
+
